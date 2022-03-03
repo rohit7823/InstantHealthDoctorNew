@@ -1,7 +1,6 @@
 package instanthealth.doctor.application
 
 import ConnectivityListener
-import `in`.instanthealth.doctor.R
 import android.app.Application
 import android.content.ContextWrapper
 import android.graphics.Color
@@ -15,6 +14,7 @@ import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import com.pixplicity.easyprefs.library.Prefs
 import dagger.hilt.android.HiltAndroidApp
+import instanthealth.doctor.R
 
 @HiltAndroidApp
 class InstantHealth : Application() {

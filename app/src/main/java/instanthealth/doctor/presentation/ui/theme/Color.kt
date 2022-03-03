@@ -1,4 +1,4 @@
-package `in`.instanthealth.doctor.presentation.ui.theme
+package instanthealth.doctor.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
